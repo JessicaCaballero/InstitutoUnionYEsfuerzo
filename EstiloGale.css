@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	font-family:algerian;
+	margin:2px;
+	background:black;
+	color:white;
+}
+
+h2{
+	text-align:center;
+}
+
+h1{
+	text-align:center;
+}
+
+.galeria{
+	width:90%;
+	margin:auto;
+	list-style:none;
+	padding:20px;
+	box-sizing:border-box;
+	
+	display:flex;
+	flex-wrap:wrap;
+}
+
+
+.galeria li{
+	margin:5px;
+	
+}
+
+
+.galeria img{
+	width:257px;
+	height:257px;
+	border:4px solid White;
+}
+
